@@ -3,3 +3,4 @@
 // heyheyhey
 // Creating a new branch is quick AND simple.
 //new branch fast forward
+//it will be commit without no-ff
